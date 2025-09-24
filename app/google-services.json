@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100091860121",
+    "project_id": "posiciongps-ca7af",
+    "storage_bucket": "posiciongps-ca7af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100091860121:android:e8be89842b3226366ed408",
+        "android_client_info": {
+          "package_name": "com.example.posiciongps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbEWLxUuzyUrNEMPYmz6AowA_j_EdtvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
